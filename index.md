@@ -1,5 +1,5 @@
 # **Xiaoye Zuo**'s ~~Lab1~~ User Page
-## Hello there! My name's **晓晔** and I'm a senior major in computer engineering with a minor in business. I'm from Chongqing, China. When I'm not coding(which is most of the time), I'm probably reading, hiking, cooking, or wandering around random streets. 
+## Hello there! My name's **晓晔** and I'm a senior major in computer engineering with a minor in business. I'm from *Chongqing, China*. When I'm not coding(which is most of the time), I'm probably reading, hiking, cooking, or wandering around random streets. 
 
 ![Me](./profile_picture.jpg)
 
